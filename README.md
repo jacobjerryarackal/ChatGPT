@@ -1,4 +1,4 @@
-# ChatGPT
+# ChatGPT- ChatBot
 This is an extremely easy custom ChatGPT Chatbot.
 There are actually three different versions of ChatGPT.
 1st version : Extremely Simple One - It is accessible even to the people that have never even touched the code before
